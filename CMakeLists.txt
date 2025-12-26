@@ -37,4 +37,10 @@ add_executable(ex_curs main.cpp
         cap3/linearSearch.h
         cap3/binarySearch.cpp
         cap3/binarySearch.h
+        cap3/sqrtBinarySearch.cpp
+        cap3/sqrtBinarySearch.h
+        cap3/insertionSort.cpp
+        cap3/insertionSort.h
+        cap3/selectionSort.cpp
+        cap3/selectionSort.h
 )

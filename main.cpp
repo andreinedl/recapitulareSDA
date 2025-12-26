@@ -21,6 +21,9 @@
 
 // ## CAPITOLUL 3 ##
 #include "cap3/binarySearch.h"
+#include "cap3/sqrtBinarySearch.h"
+#include "cap3/insertionSort.h"
+#include "cap3/selectionSort.h"
 
 int main() {
     // ## CAPITOLUL 1 ##
@@ -42,6 +45,9 @@ int main() {
     //ex_c3();
 
     // ## CAPITOLUL 3 ##
-    binarySearch();
+    //binarySearch();
+    //sqrtBinarySearch();
+    //insertionSort();
+    selectionSort();
     return 0;
 }
