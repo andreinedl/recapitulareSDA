@@ -43,4 +43,6 @@ add_executable(ex_curs main.cpp
         cap3/insertionSort.h
         cap3/selectionSort.cpp
         cap3/selectionSort.h
+        cap3/mergeSort.cpp
+        cap3/mergeSort.h
 )

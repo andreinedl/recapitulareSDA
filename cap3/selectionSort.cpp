@@ -1,6 +1,7 @@
 //
 // Created by Andrei on 26.12.2025.
 // https://www.geeksforgeeks.org/dsa/selection-sort-algorithm-2/
+// Pagina 28 in curs
 
 #include "iostream"
 #include "vector"

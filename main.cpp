@@ -23,6 +23,7 @@
 #include "cap3/binarySearch.h"
 #include "cap3/sqrtBinarySearch.h"
 #include "cap3/insertionSort.h"
+#include "cap3/mergeSort.h"
 #include "cap3/selectionSort.h"
 
 int main() {
@@ -48,6 +49,7 @@ int main() {
     //binarySearch();
     //sqrtBinarySearch();
     //insertionSort();
-    selectionSort();
+    //selectionSort();
+    mergeSort();
     return 0;
 }
