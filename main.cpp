@@ -26,6 +26,10 @@
 #include "cap3/mergeSort.h"
 #include "cap3/selectionSort.h"
 
+// ## CAPITOLUL 4 ##
+#include "cap4/postfixEvaluation.h"
+#include "cap4/postfixToInfix.h"
+
 int main() {
     // ## CAPITOLUL 1 ##
     //union_find();
@@ -50,6 +54,10 @@ int main() {
     //sqrtBinarySearch();
     //insertionSort();
     //selectionSort();
-    mergeSort();
+    //mergeSort();
+
+    // ## CAPITOLUL 4 ##
+    //postfixEvaluation();
+    postfixToInfix();
     return 0;
 }

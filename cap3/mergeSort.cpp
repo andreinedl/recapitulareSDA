@@ -1,6 +1,7 @@
 //
 // Created by Andrei on 26.12.2025.
 // https://www.geeksforgeeks.org/dsa/merge-sort/
+// A se vedea capitolul 5 - recursivitatea din curs
 
 #include "mergeSort.h"
 #include "iostream"
@@ -64,7 +65,7 @@ namespace mSort {
             j++;
             counter++;
         }
-        
+
         std::cout << "Merge interval [" << left << " - " << right << "]: ";
         for(int k = left; k <= right; k++) {
             std::cout << arr[k] << " ";

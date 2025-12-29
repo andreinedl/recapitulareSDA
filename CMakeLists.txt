@@ -45,4 +45,8 @@ add_executable(ex_curs main.cpp
         cap3/selectionSort.h
         cap3/mergeSort.cpp
         cap3/mergeSort.h
+        cap4/postfixEvaluation.cpp
+        cap4/postfixEvaluation.h
+        cap4/postfixToInfix.cpp
+        cap4/postfixToInfix.h
 )
