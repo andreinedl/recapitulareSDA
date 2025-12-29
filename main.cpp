@@ -30,6 +30,13 @@
 #include "cap4/postfixEvaluation.h"
 #include "cap4/postfixToInfix.h"
 
+// ## CAPITOLUL 5 ##
+//#include "cap5/tracedFactorial.h"
+#include "cap5/recursiveArrayRev.h"
+#include "cap5/recursiveCMMDC.h"
+#include "cap5/recursivePalindrome.h"
+#include "cap5/tracedSum.h"
+
 int main() {
     // ## CAPITOLUL 1 ##
     //union_find();
@@ -58,6 +65,13 @@ int main() {
 
     // ## CAPITOLUL 4 ##
     //postfixEvaluation();
-    postfixToInfix();
+    //postfixToInfix();
+
+    // ## CAPITOLUL 5 ##
+    //tracedFactorial();
+    //tracedSum();
+    //recursiveCMMDC();
+    //recursivePalindrome();
+    recursiveArrayRec();
     return 0;
 }

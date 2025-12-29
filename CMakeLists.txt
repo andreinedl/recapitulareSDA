@@ -49,4 +49,14 @@ add_executable(ex_curs main.cpp
         cap4/postfixEvaluation.h
         cap4/postfixToInfix.cpp
         cap4/postfixToInfix.h
+        cap5/tracedFactorial.cpp
+        cap5/tracedFactorial.h
+        cap5/tracedSum.cpp
+        cap5/tracedSum.h
+        cap5/recursiveCMMDC.cpp
+        cap5/recursiveCMMDC.h
+        cap5/recursivePalindrome.cpp
+        cap5/recursivePalindrome.h
+        cap5/recursiveArrayRev.cpp
+        cap5/recursiveArrayRev.h
 )
